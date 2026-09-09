@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.1.0"
   latestRelease: "v9.1.0"
   latestPrerelease: "v5.0.0-rc.0"
-  collectedAt: 2026-09-09T04:32:53Z
+  collectedAt: 2026-09-09T18:30:47Z
 timeline:
   created: 2015-07-23
   lastCommit: 2026-07-21
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-21
   lastPrerelease: 2020-04-19
 popularity:
-  star: 1980
+  star: 1979
   watcher: 17
   fork: 86
   release: 41
@@ -83,7 +83,7 @@ total:
   commit: 289
 ---
 path: /home/runner/.x-repo/github.com/jeffbski/wait-on
-collectedAt: 2026-09-09T04:32:54Z
+collectedAt: 2026-09-09T18:30:49Z
 loc:
   Json:
     code: 4151
