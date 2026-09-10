@@ -1,24 +1,72 @@
 # wait-on
 
+[中文版本](./README.cn.md)
+
 wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
 
-- **Upstream**: <https://github.com/jeffbski/wait-on>
-- **Homepage**: <>
-- **Latest release**: `v9.1.0` (2026-07-21)
-- **Last commit**: 2026-07-21
-- **License**: MIT
-- **Stars**: 1979 · **Forks**: 86 · **Open issues**: 105 · **Contributors**: 21
+![wait-on](https://repo.x-cmd.io/wait-on.svg)
 
-## Installation
+## Install
 
 ```sh
 x install wait-on
 ```
 
-See <https://x-cmd.com/install/wait-on> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/jeffbski/wait-on>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:30:53Z._
+- **Latest**: `v9.1.0` (2026-07-21)
+- **Last commit**: 2026-07-21
+- **Published**: 2026-07-21T20:53:35Z
+
+## Popularity
+
+- **Stars**: 1,979 · **Forks**: 86 · **Open issues**: 105 · **Contributors**: 21
+
+## Totals (cumulative)
+
+- **Releases**: 41 · **Merged PRs**: 51 · **Open PRs**: 11 · **Closed issues**: 56 · **Open issues**: 49 · **Commits**: 289
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 1 | 1 | 3 | 0 | 1 | 2 |
+| 360d | 2025-09-15 | 9 | 12 | 5 | 6 | 6 | 27 |
+
+## Code size
+
+Total: **5,769** lines of code across **11** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 4,151 | 0 | 0 | 2 |
+| JavaScript | 1,618 | 116 | 208 | 7 |
+| Markdown | 0 | 141 | 68 | 1 |
+| Text | 0 | 63 | 34 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **3.3 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
+## Improve this data
+
+Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wait-on` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/wait-on.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:28:37Z._
