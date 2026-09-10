@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.1.0"
   latestRelease: "v9.1.0"
   latestPrerelease: "v5.0.0-rc.0"
-  collectedAt: 2026-09-10T20:17:13Z
+  collectedAt: 2026-09-10T23:29:21Z
 timeline:
   created: 2015-07-23
   lastCommit: 2026-07-21
@@ -83,7 +83,7 @@ total:
   commit: 289
 ---
 path: /home/runner/.x-repo/github.com/jeffbski/wait-on
-collectedAt: 2026-09-10T20:17:14Z
+collectedAt: 2026-09-10T23:29:24Z
 loc:
   Json:
     code: 4151
