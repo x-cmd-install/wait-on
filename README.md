@@ -21,7 +21,6 @@ x install wait-on
 
 - **Latest**: `v9.1.0` (2026-07-21)
 - **Last commit**: 2026-07-21
-- **Published**: 2026-07-21T20:53:35Z
 
 ## Popularity
 
@@ -65,8 +64,8 @@ Lowest-scoring checks:
 Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wait-on` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/wait-on.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/wait-on.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:28:37Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:51:16Z._
