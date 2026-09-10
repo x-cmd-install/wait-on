@@ -1,0 +1,33 @@
+- repo: freebsd
+  srcname: sysutils/wait_on
+  binname: wait_on
+  visiblename: sysutils/wait_on
+  version: 1.1.2
+  origversion: 1.1.2_1
+  status: newest
+  summary: Enable shell scripts to monitor for changes on directories and files
+  maintainers:
+    - jcpierri@gmail.com
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: wait_on
+  visiblename: wait_on
+  version: "1.1"
+  origversion: null
+  status: outdated
+  summary: Provides shell scripts with access to kqueue(3)
+- repo: macports
+  srcname: sysutils/wait_on
+  binname: wait_on
+  visiblename: wait_on
+  version: "1.1"
+  origversion: null
+  status: outdated
+  summary: waits until a file or directory is changed
+  maintainers:
+    - nomaintainer@macports.org
+  licenses:
+    - GPL-2
+  categories:
+    - sysutils
