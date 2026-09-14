@@ -45,30 +45,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,979 · **Forks**: 86 · **Open issues**: 105 · **Contributors**: 21
+- **Stars**: 1,979 · **Forks**: 87 · **Open issues**: 105 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 51 · **Open PRs**: 11 · **Closed issues**: 56 · **Open issues**: 49 · **Commits**: 289
+- **Releases**: 41 · **Merged PRs**: 51 · **Open PRs**: 13 · **Closed issues**: 56 · **Open issues**: 49 · **Commits**: 289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 1 | 1 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-15 | 1 | 1 | 3 | 0 | 1 | 2 |
-| last180d | 2026-03-17 | 4 | 8 | 5 | 3 | 2 | 18 |
-| 360d | 2025-09-18 | 8 | 11 | 5 | 4 | 6 | 25 |
-| last720d | 2024-09-23 | 13 | 17 | 6 | 7 | 8 | 67 |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/wait-on). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.1` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 1 | 1 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 1 | 1 | 5 | 0 | 1 | 2 |
+| last180d | 2026-03-18 | 4 | 8 | 7 | 3 | 2 | 18 |
+| 360d | 2025-09-19 | 8 | 11 | 7 | 4 | 6 | 25 |
+| last720d | 2024-09-24 | 13 | 17 | 8 | 7 | 8 | 67 |
 
 ## Improve this data
 
@@ -79,4 +71,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:38:57Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:45:10Z._
