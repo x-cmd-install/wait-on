@@ -4,7 +4,7 @@
 
 wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
 
-![wait-on](https://repo.x-cmd.io/wait-on.svg)
+[![x-cmd/install — wait-on Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wait-on.svg)](https://x-cmd.com/install/wait-on)
 
 ## Install
 
@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,980 · **Forks**: 88 · **Open issues**: 105 · **Contributors**: 21
+- **Stars**: 1,981 · **Forks**: 88 · **Open issues**: 105 · **Contributors**: 21
 
 ## Totals (cumulative)
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 1 | 1 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 1 | 1 | 5 | 0 | 1 | 2 |
-| last180d | 2026-03-22 | 4 | 8 | 7 | 3 | 2 | 18 |
-| 360d | 2025-09-23 | 7 | 10 | 7 | 4 | 6 | 25 |
-| last720d | 2024-09-28 | 13 | 17 | 8 | 7 | 8 | 67 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 1 | 1 | 5 | 0 | 1 | 2 |
+| last180d | 2026-03-24 | 4 | 8 | 7 | 3 | 2 | 18 |
+| 360d | 2025-09-25 | 7 | 10 | 7 | 4 | 6 | 25 |
+| last720d | 2024-09-30 | 13 | 17 | 8 | 7 | 8 | 67 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:33:04Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:46:57Z._
