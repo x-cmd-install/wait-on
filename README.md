@@ -4,7 +4,7 @@
 
 wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
 
-[![x-cmd/install — wait-on Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wait-on.svg)](https://x-cmd.com/install/wait-on)
+[![x-cmd/install — wait-on Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/wait-on.svg)](https://x-cmd.com/install/wait-on)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **3.3 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/16 approved changesets -- score normalized to 0
 - **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## Source
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 1 | 1 | 5 | 0 | 1 | 2 |
-| last180d | 2026-03-26 | 4 | 8 | 7 | 3 | 2 | 18 |
-| 360d | 2025-09-27 | 7 | 10 | 7 | 4 | 6 | 25 |
-| last720d | 2024-10-02 | 13 | 17 | 8 | 7 | 8 | 67 |
+| 30d | 2026-08-24 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 1 | 1 | 5 | 0 | 1 | 2 |
+| last180d | 2026-03-27 | 4 | 8 | 7 | 3 | 2 | 18 |
+| 360d | 2025-09-28 | 7 | 10 | 7 | 4 | 6 | 25 |
+| last720d | 2024-10-03 | 13 | 17 | 8 | 7 | 8 | 67 |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:44:26Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:37:05Z._
