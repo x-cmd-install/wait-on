@@ -193,4 +193,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 23 are checked with a SAST tool'
 ---
-{"id":357633154,"author":{"login":"jeffbski","id":5689,"node_id":"MDQ6VXNlcjU2ODk=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAlvb_c4VUQyC","tag_name":"v9.1.0","target_commitish":"master","name":"v9.1.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-07-21T20:49:37Z","updated_at":"2026-07-21T20:53:35Z","published_at":"2026-07-21T20:53:35Z","assets":[],"body":"Updated some dependencies\r\n- axios\r\n- joi\r\n- mocha\r\n- eslint-plugin-chai-friendly"}
