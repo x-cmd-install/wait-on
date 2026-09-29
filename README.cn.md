@@ -14,14 +14,15 @@ x install wait-on
 
 ## 代码洞察
 
-合计: **5,769** 行代码（覆盖前 5 种语言、共 **11** 个文件）。
+合计: **6,552** 行代码（覆盖前 5 种语言、共 **16** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 4,151 | 0 | 0 | 2 |
-| JavaScript | 1,618 | 116 | 208 | 7 |
-| Markdown | 0 | 141 | 68 | 1 |
-| Text | 0 | 63 | 34 | 1 |
+| Json | 4,209 | 0 | 0 | 3 |
+| JavaScript | 2,263 | 171 | 268 | 9 |
+| TypeScript | 71 | 39 | 22 | 2 |
+| Sh | 7 | 18 | 4 | 1 |
+| Toml | 2 | 6 | 1 | 1 |
 
 ## OpenSSF Scorecard 评分
 
@@ -29,9 +30,9 @@ x install wait-on
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/16 approved changesets -- score normalized to 0
 - **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
+- **Code-Review** (0/10) — Found 0/16 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -40,27 +41,27 @@ x install wait-on
 
 ## 发布
 
-- **最新版本**: `v9.1.0` (2026-07-21)
-- **最近提交**: 2026-07-21
+- **最新版本**: `v9.4.0` (2026-09-28)
+- **最近提交**: 2026-09-28
 
 ## 流行度
 
-- **Star**: 1,981 · **Fork**: 88 · **开放 issue**: 105 · **贡献者**: 21
+- **Star**: 1,980 · **Fork**: 88 · **开放 issue**: 108 · **贡献者**: 28
 
 ## 累计统计
 
-- **发布数**: 41 · **已合并 PR**: 51 · **开放 PR**: 13 · **已关闭 issue**: 56 · **开放 issue**: 49 · **提交数**: 289
+- **发布数**: 44 · **已合并 PR**: 65 · **开放 PR**: 19 · **已关闭 issue**: 72 · **开放 issue**: 36 · **提交数**: 342
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 1 | 1 | 5 | 0 | 0 | 2 |
-| last180d | 2026-04-01 | 4 | 8 | 6 | 3 | 2 | 18 |
-| 360d | 2025-10-03 | 7 | 10 | 7 | 4 | 6 | 25 |
-| last720d | 2024-10-08 | 13 | 17 | 8 | 7 | 8 | 67 |
+| 30d | 2026-08-30 | 3 | 14 | 10 | 0 | 3 | 35 |
+| last60d | 2026-07-31 | 3 | 14 | 10 | 0 | 3 | 35 |
+| 90d | 2026-07-01 | 4 | 15 | 11 | 0 | 3 | 37 |
+| last180d | 2026-04-02 | 7 | 22 | 12 | 4 | 4 | 54 |
+| 360d | 2025-10-04 | 10 | 24 | 13 | 8 | 5 | 62 |
+| last720d | 2024-10-09 | 16 | 31 | 14 | 11 | 7 | 120 |
 
 ## 改进这些数据
 
@@ -71,4 +72,4 @@ wait-on 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:13:02Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T05:40:10Z._

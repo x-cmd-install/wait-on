@@ -14,14 +14,15 @@ x install wait-on
 
 ## Code insight
 
-Total: **5,769** lines of code across **11** files in the top 5 languages.
+Total: **6,552** lines of code across **16** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 4,151 | 0 | 0 | 2 |
-| JavaScript | 1,618 | 116 | 208 | 7 |
-| Markdown | 0 | 141 | 68 | 1 |
-| Text | 0 | 63 | 34 | 1 |
+| Json | 4,209 | 0 | 0 | 3 |
+| JavaScript | 2,263 | 171 | 268 | 9 |
+| TypeScript | 71 | 39 | 22 | 2 |
+| Sh | 7 | 18 | 4 | 1 |
+| Toml | 2 | 6 | 1 | 1 |
 
 ## OpenSSF Scorecard
 
@@ -29,9 +30,9 @@ Overall score: **3.3 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/16 approved changesets -- score normalized to 0
 - **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
+- **Code-Review** (0/10) — Found 0/16 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -40,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v9.1.0` (2026-07-21)
-- **Last commit**: 2026-07-21
+- **Latest**: `v9.4.0` (2026-09-28)
+- **Last commit**: 2026-09-28
 
 ## Popularity
 
-- **Stars**: 1,981 · **Forks**: 88 · **Open issues**: 105 · **Contributors**: 21
+- **Stars**: 1,980 · **Forks**: 88 · **Open issues**: 108 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 51 · **Open PRs**: 13 · **Closed issues**: 56 · **Open issues**: 49 · **Commits**: 289
+- **Releases**: 44 · **Merged PRs**: 65 · **Open PRs**: 19 · **Closed issues**: 72 · **Open issues**: 36 · **Commits**: 342
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 1 | 1 | 5 | 0 | 0 | 2 |
-| last180d | 2026-04-01 | 4 | 8 | 6 | 3 | 2 | 18 |
-| 360d | 2025-10-03 | 7 | 10 | 7 | 4 | 6 | 25 |
-| last720d | 2024-10-08 | 13 | 17 | 8 | 7 | 8 | 67 |
+| 30d | 2026-08-30 | 3 | 14 | 10 | 0 | 3 | 35 |
+| last60d | 2026-07-31 | 3 | 14 | 10 | 0 | 3 | 35 |
+| 90d | 2026-07-01 | 4 | 15 | 11 | 0 | 3 | 37 |
+| last180d | 2026-04-02 | 7 | 22 | 12 | 4 | 4 | 54 |
+| 360d | 2025-10-04 | 10 | 24 | 13 | 8 | 5 | 62 |
+| last720d | 2024-10-09 | 16 | 31 | 14 | 11 | 7 | 120 |
 
 ## Improve this data
 
@@ -71,4 +72,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:13:01Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:40:10Z._
