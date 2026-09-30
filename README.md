@@ -14,13 +14,13 @@ x install wait-on
 
 ## Code insight
 
-Total: **6,552** lines of code across **16** files in the top 5 languages.
+Total: **6,749** lines of code across **18** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 4,209 | 0 | 0 | 3 |
-| JavaScript | 2,263 | 171 | 268 | 9 |
-| TypeScript | 71 | 39 | 22 | 2 |
+| Json | 4,149 | 0 | 0 | 3 |
+| JavaScript | 2,420 | 176 | 288 | 10 |
+| TypeScript | 171 | 86 | 35 | 3 |
 | Sh | 7 | 18 | 4 | 1 |
 | Toml | 2 | 6 | 1 | 1 |
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v9.4.0` (2026-09-28)
-- **Last commit**: 2026-09-28
+- **Latest**: `v9.5.1` (2026-09-29)
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
-- **Stars**: 1,980 · **Forks**: 88 · **Open issues**: 108 · **Contributors**: 28
+- **Stars**: 1,980 · **Forks**: 88 · **Open issues**: 109 · **Contributors**: 28
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 65 · **Open PRs**: 19 · **Closed issues**: 72 · **Open issues**: 36 · **Commits**: 342
+- **Releases**: 47 · **Merged PRs**: 70 · **Open PRs**: 17 · **Closed issues**: 73 · **Open issues**: 36 · **Commits**: 357
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 3 | 14 | 10 | 0 | 3 | 35 |
-| last60d | 2026-07-31 | 3 | 14 | 10 | 0 | 3 | 35 |
-| 90d | 2026-07-01 | 4 | 15 | 11 | 0 | 3 | 37 |
-| last180d | 2026-04-02 | 7 | 22 | 12 | 4 | 4 | 54 |
-| 360d | 2025-10-04 | 10 | 24 | 13 | 8 | 5 | 62 |
-| last720d | 2024-10-09 | 16 | 31 | 14 | 11 | 7 | 120 |
+| 30d | 2026-08-31 | 6 | 19 | 8 | 1 | 3 | 45 |
+| last60d | 2026-08-01 | 6 | 19 | 8 | 1 | 3 | 45 |
+| 90d | 2026-07-02 | 7 | 20 | 9 | 1 | 3 | 47 |
+| last180d | 2026-04-03 | 10 | 27 | 9 | 5 | 4 | 64 |
+| 360d | 2025-10-05 | 13 | 29 | 11 | 9 | 5 | 72 |
+| last720d | 2024-10-10 | 19 | 36 | 12 | 12 | 7 | 135 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:40:10Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:23:46Z._
