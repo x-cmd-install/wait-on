@@ -14,11 +14,11 @@ x install wait-on
 
 ## Code insight
 
-Total: **6,749** lines of code across **18** files in the top 5 languages.
+Total: **6,748** lines of code across **18** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 4,149 | 0 | 0 | 3 |
+| Json | 4,148 | 0 | 0 | 3 |
 | JavaScript | 2,420 | 176 | 288 | 10 |
 | TypeScript | 171 | 86 | 35 | 3 |
 | Sh | 7 | 18 | 4 | 1 |
@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v9.5.1` (2026-09-29)
+- **Latest**: `v10.0.0-rc.1` (2026-09-29)
 - **Last commit**: 2026-09-30
 
 ## Popularity
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 70 · **Open PRs**: 17 · **Closed issues**: 73 · **Open issues**: 36 · **Commits**: 357
+- **Releases**: 48 · **Merged PRs**: 78 · **Open PRs**: 10 · **Closed issues**: 73 · **Open issues**: 36 · **Commits**: 364
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 6 | 19 | 8 | 1 | 3 | 45 |
-| last60d | 2026-08-01 | 6 | 19 | 8 | 1 | 3 | 45 |
-| 90d | 2026-07-02 | 7 | 20 | 9 | 1 | 3 | 47 |
-| last180d | 2026-04-03 | 10 | 27 | 9 | 5 | 4 | 64 |
-| 360d | 2025-10-05 | 13 | 29 | 11 | 9 | 5 | 72 |
-| last720d | 2024-10-10 | 19 | 36 | 12 | 12 | 7 | 135 |
+| 30d | 2026-09-01 | 7 | 27 | 1 | 1 | 3 | 50 |
+| last60d | 2026-08-02 | 7 | 27 | 1 | 1 | 3 | 50 |
+| 90d | 2026-07-03 | 8 | 28 | 1 | 1 | 3 | 52 |
+| last180d | 2026-04-04 | 11 | 35 | 2 | 5 | 4 | 69 |
+| 360d | 2025-10-06 | 14 | 37 | 4 | 9 | 5 | 77 |
+| last720d | 2024-10-11 | 20 | 44 | 5 | 12 | 7 | 142 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:23:46Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:39:14Z._
