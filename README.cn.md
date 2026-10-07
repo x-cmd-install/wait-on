@@ -26,13 +26,13 @@ x install wait-on
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.3 / 10**
+总评分: **5 / 10**
 
 评分最低的几项:
 
-- **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
-- **Code-Review** (0/10) — Found 0/16 approved changesets -- score normalized to 0
+- **Code-Review** (4/10) — Found 8/17 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -50,18 +50,18 @@ x install wait-on
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 78 · **开放 PR**: 9 · **已关闭 issue**: 73 · **开放 issue**: 40 · **提交数**: 364
+- **发布数**: 48 · **已合并 PR**: 78 · **开放 PR**: 9 · **已关闭 issue**: 74 · **开放 issue**: 39 · **提交数**: 364
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 7 | 27 | 4 | 1 | 7 | 50 |
-| last60d | 2026-08-07 | 7 | 27 | 4 | 1 | 7 | 50 |
-| 90d | 2026-07-08 | 8 | 28 | 4 | 1 | 7 | 52 |
-| last180d | 2026-04-09 | 11 | 35 | 4 | 5 | 8 | 67 |
-| 360d | 2025-10-11 | 14 | 37 | 4 | 9 | 9 | 77 |
-| last720d | 2024-10-16 | 20 | 44 | 4 | 12 | 11 | 142 |
+| 30d | 2026-09-07 | 7 | 27 | 4 | 1 | 7 | 50 |
+| last60d | 2026-08-08 | 7 | 27 | 4 | 1 | 7 | 50 |
+| 90d | 2026-07-09 | 8 | 28 | 4 | 1 | 7 | 52 |
+| last180d | 2026-04-10 | 11 | 34 | 4 | 5 | 8 | 67 |
+| 360d | 2025-10-12 | 14 | 37 | 4 | 9 | 9 | 77 |
+| last720d | 2024-10-17 | 20 | 44 | 4 | 13 | 10 | 142 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ wait-on 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T06:09:39Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T05:45:07Z._

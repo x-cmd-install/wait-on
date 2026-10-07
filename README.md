@@ -26,13 +26,13 @@ Total: **6,748** lines of code across **18** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.3 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (3/10) — 3 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 3
-- **Code-Review** (0/10) — Found 0/16 approved changesets -- score normalized to 0
+- **Code-Review** (4/10) — Found 8/17 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 78 · **Open PRs**: 9 · **Closed issues**: 73 · **Open issues**: 40 · **Commits**: 364
+- **Releases**: 48 · **Merged PRs**: 78 · **Open PRs**: 9 · **Closed issues**: 74 · **Open issues**: 39 · **Commits**: 364
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 7 | 27 | 4 | 1 | 7 | 50 |
-| last60d | 2026-08-07 | 7 | 27 | 4 | 1 | 7 | 50 |
-| 90d | 2026-07-08 | 8 | 28 | 4 | 1 | 7 | 52 |
-| last180d | 2026-04-09 | 11 | 35 | 4 | 5 | 8 | 67 |
-| 360d | 2025-10-11 | 14 | 37 | 4 | 9 | 9 | 77 |
-| last720d | 2024-10-16 | 20 | 44 | 4 | 12 | 11 | 142 |
+| 30d | 2026-09-07 | 7 | 27 | 4 | 1 | 7 | 50 |
+| last60d | 2026-08-08 | 7 | 27 | 4 | 1 | 7 | 50 |
+| 90d | 2026-07-09 | 8 | 28 | 4 | 1 | 7 | 52 |
+| last180d | 2026-04-10 | 11 | 34 | 4 | 5 | 8 | 67 |
+| 360d | 2025-10-12 | 14 | 37 | 4 | 9 | 9 | 77 |
+| last720d | 2024-10-17 | 20 | 44 | 4 | 13 | 10 | 142 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:09:38Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:45:06Z._
