@@ -218,4 +218,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 24 are checked with a SAST tool'
 ---
-{"id":399283726,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAlvb_c4XzJYO","tag_name":"v9.5.1","target_commitish":"master","name":"v9.5.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-29T15:29:01Z","updated_at":"2026-09-29T15:29:13Z","published_at":"2026-09-29T15:29:13Z","assets":[],"body":"## [9.5.1](https://github.com/jeffbski/wait-on/compare/v9.5.0...v9.5.1) (2026-09-29)\n\n\n### Bug Fixes\n\n* **deps:** upgrade dependencies to address vulnerabilities ([6d6f488](https://github.com/jeffbski/wait-on/commit/6d6f4886f2f6ae36ab1af3b9d1315d72cf28fc8c))\n"}
