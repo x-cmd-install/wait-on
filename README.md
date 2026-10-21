@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 78 · **Open PRs**: 9 · **Closed issues**: 74 · **Open issues**: 39 · **Commits**: 364
+- **Releases**: 48 · **Merged PRs**: 78 · **Open PRs**: 10 · **Closed issues**: 74 · **Open issues**: 39 · **Commits**: 364
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 7 | 27 | 4 | 1 | 7 | 49 |
-| last60d | 2026-08-21 | 7 | 27 | 4 | 1 | 7 | 50 |
-| 90d | 2026-07-22 | 7 | 27 | 4 | 1 | 7 | 50 |
-| last180d | 2026-04-23 | 10 | 34 | 4 | 5 | 8 | 67 |
-| 360d | 2025-10-25 | 14 | 36 | 4 | 9 | 9 | 76 |
-| last720d | 2024-10-30 | 20 | 44 | 4 | 13 | 10 | 142 |
+| 30d | 2026-09-21 | 7 | 27 | 5 | 1 | 7 | 49 |
+| last60d | 2026-08-22 | 7 | 27 | 5 | 1 | 7 | 50 |
+| 90d | 2026-07-23 | 7 | 27 | 5 | 1 | 7 | 50 |
+| last180d | 2026-04-24 | 10 | 34 | 5 | 5 | 8 | 67 |
+| 360d | 2025-10-26 | 14 | 36 | 5 | 9 | 9 | 76 |
+| last720d | 2024-10-31 | 20 | 44 | 5 | 13 | 10 | 142 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:39:12Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:32:26Z._
