@@ -41,7 +41,7 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v10.0.0-rc.1` (2026-09-29)
+- **Latest**: `v10.0.0-rc.2` (2026-09-29)
 - **Last commit**: 2026-09-30
 
 ## Popularity
@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 78 · **Open PRs**: 11 · **Closed issues**: 74 · **Open issues**: 40 · **Commits**: 364
+- **Releases**: 49 · **Merged PRs**: 79 · **Open PRs**: 10 · **Closed issues**: 74 · **Open issues**: 40 · **Commits**: 364
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 6 | 0 | 4 | 0 |
-| last60d | 2026-09-02 | 7 | 27 | 6 | 1 | 8 | 50 |
-| 90d | 2026-08-03 | 7 | 27 | 6 | 1 | 8 | 50 |
-| last180d | 2026-05-05 | 10 | 34 | 6 | 4 | 9 | 67 |
-| 360d | 2025-11-06 | 14 | 36 | 6 | 8 | 10 | 76 |
-| last720d | 2024-11-11 | 20 | 44 | 6 | 13 | 11 | 142 |
+| 30d | 2026-10-03 | 1 | 1 | 5 | 0 | 3 | 0 |
+| last60d | 2026-09-03 | 8 | 28 | 5 | 1 | 8 | 50 |
+| 90d | 2026-08-04 | 8 | 28 | 5 | 1 | 8 | 50 |
+| last180d | 2026-05-06 | 11 | 35 | 5 | 4 | 9 | 53 |
+| 360d | 2025-11-07 | 15 | 37 | 5 | 8 | 10 | 73 |
+| last720d | 2024-11-12 | 21 | 45 | 5 | 13 | 11 | 142 |
 
 ## Distribution status
 
@@ -80,4 +80,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:50:56Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:49:39Z._
