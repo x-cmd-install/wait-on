@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,988 · **Forks**: 89 · **Open issues**: 114 · **Contributors**: 28
+- **Stars**: 1,987 · **Forks**: 89 · **Open issues**: 114 · **Contributors**: 28
 
 ## Totals (cumulative)
 
@@ -56,20 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 8 | 28 | 5 | 1 | 8 | 2 |
-| 90d | 2026-08-27 | 8 | 28 | 5 | 1 | 8 | 50 |
-| last180d | 2026-05-29 | 9 | 29 | 5 | 2 | 8 | 53 |
-| 360d | 2025-11-30 | 13 | 37 | 5 | 7 | 10 | 73 |
-| last720d | 2024-12-05 | 21 | 45 | 5 | 13 | 11 | 142 |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/wait-on). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.1` | ⚠️ outdated |
+| 30d | 2026-10-27 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 8 | 28 | 5 | 1 | 8 | 0 |
+| 90d | 2026-08-28 | 8 | 28 | 5 | 1 | 8 | 0 |
+| last180d | 2026-05-30 | 9 | 29 | 5 | 2 | 8 | 0 |
+| 360d | 2025-12-01 | 13 | 37 | 5 | 7 | 10 | 0 |
+| last720d | 2024-12-06 | 21 | 45 | 5 | 13 | 11 | 142 |
 
 ## Improve this data
 
@@ -80,4 +72,4 @@ Install metadata for wait-on lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:16:27Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:04:17Z._
